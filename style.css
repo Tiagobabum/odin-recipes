@@ -1,0 +1,21 @@
+* {
+    color: rgb(255, 255, 255);
+    background-color: rgb(60, 54, 54);
+}
+
+
+
+h1,h2,h3{ 
+    text-align: center;  
+    background-color: rgb(74, 97, 199); 
+}
+img, #centr{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+li {
+    font-size: large;
+}
+
