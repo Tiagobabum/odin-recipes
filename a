@@ -1,0 +1,23 @@
+[33mcommit 309ac4f0ea42ba203a5235c2a384710aceb346d8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Tiagobabum <tiagobabumm@gmail.com>
+Date:   Thu Apr 7 19:52:27 2022 -0300
+
+    Create the css file
+
+[33mcommit bd63289689690dd6dbbf312b22e2c48541865794[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Tiagobabum <tiagobabumm@gmail.com>
+Date:   Mon Apr 4 23:40:57 2022 -0300
+
+    add README.txt
+
+[33mcommit 720654d06d8880e316f43c2c5889e6842a455ddd[m
+Author: Tiagobabum <tiagobabumm@gmail.com>
+Date:   Mon Apr 4 23:33:07 2022 -0300
+
+    add recipes/
+
+[33mcommit 1c7a4660a78f1e4989dc87c6dd1e9a884bc677cb[m
+Author: Tiagobabum <79117806+Tiagobabum@users.noreply.github.com>
+Date:   Mon Apr 4 15:31:07 2022 -0300
+
+    Initial commit
